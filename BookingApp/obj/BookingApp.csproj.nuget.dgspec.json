@@ -1,32 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\conferences\\wdc2019\\wdc2019\\BookingApp\\BookingApp.csproj": {}
+    "/Users/Ben/Development/playground/wdc2019/BookingApp/BookingApp.csproj": {}
   },
   "projects": {
-    "C:\\work\\conferences\\wdc2019\\wdc2019\\BookingApp\\BookingApp.csproj": {
+    "/Users/Ben/Development/playground/wdc2019/BookingApp/BookingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\conferences\\wdc2019\\wdc2019\\BookingApp\\BookingApp.csproj",
+        "projectUniqueName": "/Users/Ben/Development/playground/wdc2019/BookingApp/BookingApp.csproj",
         "projectName": "BookingApp",
-        "projectPath": "C:\\work\\conferences\\wdc2019\\wdc2019\\BookingApp\\BookingApp.csproj",
-        "packagesPath": "C:\\Users\\angele_h\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\conferences\\wdc2019\\wdc2019\\BookingApp\\obj\\",
+        "projectPath": "/Users/Ben/Development/playground/wdc2019/BookingApp/BookingApp.csproj",
+        "packagesPath": "/Users/Ben/.nuget/packages/",
+        "outputPath": "/Users/Ben/Development/playground/wdc2019/BookingApp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\angele_h\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/Ben/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://uhlmann.pkgs.visualstudio.com/_packaging/UhlmannWebView3/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -42,6 +39,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.Azure.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.Azure.Storage.Queue": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -83,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
