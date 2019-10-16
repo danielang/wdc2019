@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using BookingApp.Models;
+using Microsoft.Azure; //Namespace for CloudConfigurationManager
+using Microsoft.Azure.Storage;
 
 namespace BookingApp.Pages
 {
@@ -22,6 +24,10 @@ namespace BookingApp.Pages
 
         public async Task OnGetAsync()
         {
+
+
+
+
             var hotels = _context.Hotel.ToList();
 
             ReservationViewModel = new List<ReservationViewModel>();
@@ -39,7 +45,20 @@ namespace BookingApp.Pages
 
         public async Task<ActionResult> OnPostAsync()
         {
-            return RedirectToPage(",/Index");
+            return RedirectToPage("./Index");
+        }
+
+
+        private IList<Hotel> GetHotels()
+        {
+
+
+            return new List<Hotel>();
+        }
+
+        private bool PostBooking()
+        {
+            return true;
         }
     }
 }
