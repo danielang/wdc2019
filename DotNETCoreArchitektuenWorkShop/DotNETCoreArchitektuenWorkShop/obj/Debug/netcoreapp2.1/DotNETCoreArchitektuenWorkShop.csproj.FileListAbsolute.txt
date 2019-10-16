@@ -1,0 +1,14 @@
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\bin\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.deps.json
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\bin\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.runtimeconfig.json
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\bin\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.runtimeconfig.dev.json
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\bin\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.dll
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\bin\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.pdb
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\obj\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.csprojAssemblyReference.cache
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\obj\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.csproj.CoreCompileInputs.cache
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\obj\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.RazorAssemblyInfo.cache
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\obj\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.RazorAssemblyInfo.cs
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\obj\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.AssemblyInfoInputs.cache
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\obj\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.AssemblyInfo.cs
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\obj\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\obj\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.dll
+C:\Users\Lucas.LAN-ERFURT\Documents\Visual Studio 2017\Projects\DotNETCoreArchitektuenWorkShop\DotNETCoreArchitektuenWorkShop\obj\Debug\netcoreapp2.1\DotNETCoreArchitektuenWorkShop.pdb
